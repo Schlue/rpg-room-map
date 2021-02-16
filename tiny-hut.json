@@ -976,7 +976,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/MackTileSet\/tilea2.png",
+         "image":".\/tilesets\/MackTileSet\/tilea2.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -989,7 +989,7 @@
         {
          "columns":16,
          "firstgid":513,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/MackTileSet\/tilea3.png",
+         "image":".\/tilesets\/MackTileSet\/tilea3.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -1002,7 +1002,7 @@
         {
          "columns":8,
          "firstgid":641,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/MackTileSet\/tilea5.png",
+         "image":".\/tilesets\/MackTileSet\/tilea5.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -1015,7 +1015,7 @@
         {
          "columns":16,
          "firstgid":769,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/MackTileSet\/tileb.png",
+         "image":".\/tilesets\/MackTileSet\/tileb.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1028,7 +1028,7 @@
         {
          "columns":16,
          "firstgid":1025,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/MackTileSet\/tiled.png",
+         "image":".\/tilesets\/MackTileSet\/tiled.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1041,7 +1041,7 @@
         {
          "columns":32,
          "firstgid":1281,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/LPC_Terrain\/terrain.png",
+         "image":".\/tilesets\/LPC_Terrain\/terrain.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1168,7 +1168,7 @@
         {
          "columns":16,
          "firstgid":2305,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/celianna\/celianna_TileB2.png",
+         "image":".\/tilesets\/celianna\/celianna_TileB2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
