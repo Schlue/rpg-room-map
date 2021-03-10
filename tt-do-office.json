@@ -1129,7 +1129,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/MackTileSet\/tilea2.png",
+         "image":"tilesets\/MackTileSet\/tilea2.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -1142,7 +1142,7 @@
         {
          "columns":16,
          "firstgid":513,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/MackTileSet\/tilea3.png",
+         "image":"tilesets\/MackTileSet\/tilea3.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -1246,7 +1246,7 @@
         {
          "columns":8,
          "firstgid":641,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/MackTileSet\/tilea5.png",
+         "image":"tilesets\/MackTileSet\/tilea5.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -1259,7 +1259,7 @@
         {
          "columns":32,
          "firstgid":769,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/LPC_Terrain\/terrain.png",
+         "image":"tilesets\/LPC_Terrain\/terrain.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1386,7 +1386,7 @@
         {
          "columns":16,
          "firstgid":1793,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/modern\/nicnubill\/request_april_by_nicnubill_d7dvydh.png",
+         "image":"tilesets\/modern\/nicnubill\/request_april_by_nicnubill_d7dvydh.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1399,7 +1399,7 @@
         {
          "columns":16,
          "firstgid":2049,
-         "image":"C:\/Users\/T\u00f6lli\/Pictures\/tilesets\/modern\/milkian\/modern-edits-b.png",
+         "image":"tilesets\/modern\/milkian\/modern-edits-b.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
